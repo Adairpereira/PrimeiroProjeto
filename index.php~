@@ -2,6 +2,9 @@
 <html>
 <body>
 <?php echo "Olá Mundo!".PHP_EOL; ?>
+<<<<<<< HEAD
 <?php echo "oi".PHP_EOL:?>
+=======
+>>>>>>> contatos
 </body>
 </html>
